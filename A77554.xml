@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Now heare this all yee persecuting rulers, preists [sic], and magistrates throughout the world. Woe, woe, terror, terror, and feirce [sic] indignation from the Lord God, even the true testimony written in this book, / by the servant of the Lord Daniel Baker.</title>
+            <author>D. B. (Daniel Baker), fl. 1650-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77554</idno>
+            <idno type="STC">Wing B482C</idno>
+            <idno type="STC">ESTC R170425</idno>
+            <idno type="EEBO-CITATION">45578132</idno>
+            <idno type="OCLC">ocm 45578132</idno>
+            <idno type="VID">172093</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77554)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172093)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2614:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Now heare this all yee persecuting rulers, preists [sic], and magistrates throughout the world. Woe, woe, terror, terror, and feirce [sic] indignation from the Lord God, even the true testimony written in this book, / by the servant of the Lord Daniel Baker.</title>
+                  <author>D. B. (Daniel Baker), fl. 1650-1660.</author>
+                  <author>Bache, Humphrey.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.W.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing; publisher and date from colophon.</note>
+                  <note>P. 2 signed: H.B. [i.e. Humphrey Bache?].</note>
+                  <note>Addressed to John Waterton, Justice of the Peace. Cf. p. 2.</note>
+                  <note>Reproduction of original in the Friends' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waterton, --  Justice of the peace.</term>
+               <term>Quakers --  Persecutions --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172093:1" rendition="simple:additions"/>
+            <head>Now heare this all yee perſecuting RULERS, PREISTS, AND MAGISTRATES Throughout the <hi>WORLD.</hi>
+               <note place="margin">The tree is known by it<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fruits, ſo ſai<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Scriptur<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as may appe<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by what <hi>Joh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Waterton</hi> ca<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed a Juſtice <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> peace, hath been long bearing and hath brough<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forth as may appear by theſe follow<g ref="char:EOLhyphen"/>ing lines.</note> Woe, woe, terror, terror, and feirce indignation from the Lord God, even the true Teſti<g ref="char:EOLhyphen"/>mony written in this Book, by the Servant of the Lord <hi>Daniel Baker.</hi>
+            </head>
+            <div type="part">
+               <p>T<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> is your juſt recompence from the righteous hand of the Lord even the equall portion of your Cup, which the farther you goe on, in perſecution, the deeper will this Cup be filled with the wrath and ſore diſpleaſure of the Lord God of recompence: And yee Preiſts, Magi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rates and Rulers of England, New-England, and Rome, who have Lawes, made in the corrupt wills of Men, that were in the making of them out of Gods feare, and not in that ſpirit and wiſedome of God, that gave forth Scripture, and ſo unjuſt grounded Lawes, by which the Popes in<g ref="char:EOLhyphen"/>quiſition, is perſecution to death, by fire, for the teſtimony of a good con<g ref="char:EOLhyphen"/>ſcience. New-Englands Law, after baniſhment to be hanged to death; Englands Law, Mens wills, and impriſonment till death; for bearing teſtimony against corrupt Lawes, and corrupt Mens wills; Oh ye Ma<g ref="char:EOLhyphen"/>giſtracy and Miniſtry of England, and New-England, call not the Church of Rome Whore any more, like ill-bred children (all you that perſecute) ſeeing you may read your ſelves, and all that runnes may read you, like Mother, like Daughters, in perſecution, all Sonnes of the Bond-woman, ſeed of the Adulterer, and the Whore, who muſt all drink
+<pb n="2" facs="tcp:172093:2" rendition="simple:additions"/>up this Cup of Gods feirce indignation, and I ſay again the farther you goe on, the deeper will it he filled to you, and it will be for you the more bitter to drinke it; and all you Conſtables, Marſhall and Servants to him Goale-keepers and Servants to them, I warne you all, in the feare and dread of the Lord God, take heed how any of you, or any man obey the command of any Magiſtrates, that doe, or ſhall in their corrupt willes, or according to any corrupt Law, command you to ſerve them in perſecuting the innocent, to hale them, without a juſt Order under their hand, and dragge from their preſence to Priſon, without a juſt mittimus, or ſomewhat to ſhew the crime to be juſt, for which you are commanded to doe their command, and let Goalers conſider how they receive any into Priſon, without a ſignifying from the Magiſtrate the crime laid againſt them, which is but reaſonable, leſt blind ſervice be done by them, and ſo they be found Servants to the Devill, in doing what the corrupt willes of Men command them, which feare not God: and ſo all of you (who joyne with them, and lend a hand to them, in perſecution) partake with them, in what is written in this Booke, even the feirce and bitter Cup of Gods just indignation.</p>
+               <closer>
+                  <signed>H. B.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>Now is the time of thy tryall come oh John Waterton, who ſhalt moſt aſſuredly give an accompt before the throne of the Lamb, the light of the holy Citty, for all the deeds of darkneſſe done in thy body, who art weigh<g ref="char:EOLhyphen"/>ed in the equall ballance of the true Sanctuary, and art found wanting, notwithſtanding thou art called a member of a Church of Chriſt, who, I am certaine never had, nor hath, at this day: ſuch a corrupt, fruitleſs, unſavory, darke, blinde, wicked member pertaining to his moſt pure body which is the Church of the living God, the pillar and ground of truth: which thou art out of. And all ſober people may behold where thou art, and haſt been, exerciſing the power of darkneſſe of the Beaſt and of the Whore that hath bewitched thee with her ſorceries and made thee drunke that thou haſt long time reeled and ſtaggerd and vomited up thine owne ſhame through the open ſtreetes, thy ſtinke and ill ſavour (behold I tell thee, is come up into the noſtrils of the moſt pure Lord God of Sabboth, and the eternall eye comprehends thee, and all the fruitleſs and wild trees of the Forreſt the land of darkneſſe and barrenneſſe, the fire is already kindled, and woe to the ſtuble, the chaffe, the vipers
+<pb n="3" facs="tcp:172093:2" rendition="simple:additions"/>and ſerpents, the deafe venemous Adders, which in no wiſe would heare the voyce of the Charmer, and can a fire be kindled among ſuch venemous uncleane creeping things, and will they not hiſſe make a noiſe and ſhoote forth their ſtinges, ſurely it hath, and will be ſo, and who can expect to gather Grapes on Thornes or Figges, on Thiſtles (I know their expectations ſhall faile that doe) a mem<g ref="char:EOLhyphen"/>ber of the true Church of Chriſt, or the Man of God, of truth, meeke, and mercifull, as a Ruler ought to bee, and of ſound Judgement, to ſhew forth all long ſuffering, gentleneſſe, meek<g ref="char:EOLhyphen"/>neſſe, ſobriety, temperance, purity, moderation, brotherly kindneſs, love without diſſimulation, or reſpect of Perſons, and theſe and ſuch like, are the fruites of the pure cleane ſpirit of the Lord; but mine eye hath not yet beheld theſe fruites proceed from thee, but contrarywiſe bringing forth corrupt and unſavoury fruites, by which the poor and needy have been long time ep<g ref="char:EOLhyphen"/>preſſed and burthened under which they have deeply ſighed and groaned, cheifly upon the firſt dayes of the weeke, which thou, in thy blind darke zeale, hath often called the Sabboth, or Lords day, whoſe is every day, to the ſhame of thy darke Teachers, who have not yet taught thee to diſtinguiſh, between the dayes of the weeke and the Sab<g ref="char:EOLhyphen"/>both and ſo art found perſecuting with the powers of darkneſſe, them that feare the Lord and keep his Commandments, who ſaid, ſix dayes ſhalt thou labour, and the ſeventh, the Sabboth which was given for a ſigne, to Iſraell, in the wilderneſſe: where the Idolaters and Murmerers were deſtroyed and fell, before the Beleevers entred into the good Land of reſt: and many ſhall fall after the ſame example, amongst whom thou art, who ſhalt give an accompt for every Loafe of Bread and ounce of Meate, Flower, and neceſſary Foode and Rayment which the poore, the Widdowes and Fatherleſſe have wanted, which thou through thy perſecuting, oppreſ<g ref="char:EOLhyphen"/>ſing, blinde, wicked zeale on the firſt dayes of the Weeke haſt ſo fre<g ref="char:EOLhyphen"/>quently taken from them without pitty, compaſſion or mercy, which is all out of the way of God: whoſe wayes are equall, and if any Man doe the thing that is good, just, or equall, on the first day which is one of the ſix, which the Lord commanded Iſraell, ſaying, ſix dayes ſhalt thou labour, he doth well, and if the Lord command one thing, and blinde perſecuting Magidrates, and great Men of the Earth,
+<pb n="4" facs="tcp:172093:3" rendition="simple:additions"/>make Lawes and Decrees to command another thing, whether is it better to obey God or man, let ſuch as feare, and deſire to feare the God of truth, judge; and let every Man ſearch with the light, his owne heart, and ſo be fully perſwaded in his owne mind: ſee what Daniel in ſuch a matter, and the three children did, Dan. <hi>3.17.18.</hi> and Dan. <hi>6.</hi> and I am ſure it is very unreaſonable and unequall oppreſſion and cruelty for any one who beares the name,
+<note place="margin">Read a Book entituled an Epiſtle to all the Chriſtian Magiſtrates and powers in the whole Chriſtendome; Sold at the Bull and Mouth neer Alderſgate; And ano<g ref="char:EOLhyphen"/>ther ſheet entituled, the voyce of thunder.</note> eſpecially of a Chriſtian Magiſtrate or Chriſ;tian, or of a member of a Church of Chriſt, to take foode or rayment by force, tyranny and cruelty from the poor and needy, the Widdowes and Fatherleſs, after they have wrought hard for their bread; then to have their bred, food, and raiment, with violence, force, and cruelty, taken from them, without mercy, pitty or compaſſion by thee; Oh John Waterton, how hard will it be for thee with many more that's in thy nature, to finde repentance unto Life, for in theſe and ſuch like cruelties haſt thou long exerciſed thy ſelfe; now the everlaſting light of life is ſpringing up, and will ſhine over the whole Earth, and ſpread from Sea to Sea, for it comprehends the darkneſſe, and fathomes the depths of Satans wiles, his Lawes and Decrees, and eſpyeth out the turnings and twinings of the moſt ſubtle Serpents: and thou in any wiſe cannot be hid from this eye, the light; the Rodde of whoſe mouth, will ſmite the Earth, the breath of whoſe Lippes ſhall ſlay the wicked, who are as the troubled Sea that cannot reſt; as thou did manifeſt thy ſelfe, the laſt firſt day in thy rage, and fury, without mercy, pitty or compaſſion.</p>
+               <p>To my wife and children: who are left as the widdow, and father leſs I being caſt into priſon, (by unreaſonable men) becauſe of my teſtimony in obedience to the Lord, againſt the deeds of the world that lyes in wickedneſſe, for they are evill, and wicked, and the Lord is pleading with the inhabitants of the earth for theſe things and thy worke, and place ſhould have been, hadſt thou been a man of God, (the laſt firſt day which thou calls the Sabboth) to be a terror to evell doers and bruitiſh people that are with thee in <hi>Cain, Eſau, Nimrod,</hi> and <hi>Iſma<g ref="char:EOLhyphen"/>ells</hi> life and nature, to have ſtill'd and reſtrained them, from offring
+<pb n="5" facs="tcp:172093:3" rendition="simple:additions"/>and doing violence againſt them that depart from evill by the feare of the Lord; but contrary wiſe, thou did as much as in thee lay, ſtrengthen the hands of the wicked to make a prey of the innocent, that fear, and obey the pure ſpirit of the Lord, in doing the thing thats Juſt, Equall, and good in his ſight; though the heathen rage, and perſecute, and imagine vaine things yet it ſhall goe well with them that feare the Lord, who is, and is to be worſhiped in ſpirit and in truth: out of which thou art, otherwiſe I ſay thou would not have ſo ſtrengthned the hands of evill doers, in going about to ruinate my wife and family, who, I ſay was left as a widdow and fatherleſſe, by throwing one of my ſervants into priſon, and putting the other in the ſtocks, and making (as it were a prey of my goods, and vent<g ref="char:EOLhyphen"/>ing forth bitter wicked vile threatnings and unſavoury words, as is thy uſu<g ref="char:EOLhyphen"/>all manner ſo to do, not becomming a man, thou beareſt the name of, but art not, ſpeaking theſe words, of my wife, calling her <hi>Baker</hi>'s Wench, and my Maid <hi>Bakers</hi> Impe, and of ſuch ſober people that could not doe, nor act violence with the wicked, calling them <hi>Bakers</hi> Imps, and ſometimes ſaying, I was a rogue, oftentimes telling people I was mad: and <hi>Baker</hi> thou wilt be in hell ere long, when I bid thee repent, fear God, and do juſtice, theſe, and ſuch like unſound words, and filthy abominations acted by thee, which are for judgement, and to be condemned: came from thee, and the eternall eye and eare of the Lord hath ſeen and heard theſe things, and behold, the light of life is ariſing, who with the hand of his power, is comming neare to judgement, with which he will plead with the oppreſſors, and the cauſe of the innocent ſuffring ſeed of Chriſt in the male and in the female. Yea he is ariſing (who comes not to ſend peace on the earth, but a ſword.)</p>
+               <p>Here followth ſome particulars written in a mittimus under <hi>John Wa<g ref="char:EOLhyphen"/>terton's</hi> hand, who committed my ſervant <hi>Richard Taylor</hi> to new B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ide<g ref="char:EOLhyphen"/>well, who performed the duty of his place, and truſt, and honeſt fidelity about the ſpace of halfe a yeare, and as the duty of a good ſervant is, hath perform<g ref="char:EOLhyphen"/>ed his worke the time of his being my ſervant, ſo that I have no eviſt thing to lay to his charge, and this I teſtifye that he ſerved under the command of Captaine Whore in the ſervice of the Common-wealth, immediately before: and ſince he came to be my ſervant who cheifly went through all my buſineſs in my honeſt imployment for the maintenance of my Wife and Family, I being in bonds my ſelf, and this my Servant by force taken out of my houſe and caſt in to pri<g ref="char:EOLhyphen"/>ſon
+<pb n="6" facs="tcp:172093:4" rendition="simple:additions"/>by <hi>John Waterton,</hi> called a Juſtice of peace, with the mittimus ſtuft with lyes ſlanders and reproaches.</p>
+               <p>As the moderate reader may read and underſtand.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>MIDDLESEX.</head>
+                     <opener>
+                        <salute>To the Governours of the houſe of correction.</salute>
+                     </opener>
+                     <p>Theſe are in the names of the keepers of the libertyes of <hi>England,</hi> &amp;c. To re<g ref="char:EOLhyphen"/>ceive into your cuſtody the body of Richard Tailor being a diſſolute and diſor<g ref="char:EOLhyphen"/>derly perſon and cannot give any good account of his living nor whence he came.</p>
+                  </body>
+               </floatingText>
+               <p>Now herein be it known to thee. <hi>John Waterton</hi> that thou haſt much a<g ref="char:EOLhyphen"/>buſed, belyed, and falſly accuſed the poor man, who did and yet may teſtify to thy face that he was my ſervant, and that he had been ſo long with me as a<g ref="char:EOLhyphen"/>bove mentioned about halfe a yeare: and this was a good account of his liv<g ref="char:EOLhyphen"/>ing I beare reccord alſo, though thou have cauſed ſuch lyes and ſtanders to be written under thy hand of the poor man my ſervant, and moreover he told thee concerning his name where it was to be found in the muſter rolles, and alſo told thee his name, and when <hi>James Brock</hi> asked <hi>John Waterton</hi> why he put my ſervant in priſon, his anſwer was becauſe he would do it, then <hi>James Brock</hi> asked if this were an anſwer beſeeming a Chriſtian, much more a Chriſtian Magiſtrate, and he ſaid twice it is good enough for thee.</p>
+               <p>And thou telling people (concerning the people of the Lord) who worſhip him in ſpirit and in truth, that they were a company of Whores and Rogues, and that they met together to play the whore and the rogue, and this is true that thou ſaid ſo, but in the feare of the Lord in the behalfe of his innocent ſuffer<g ref="char:EOLhyphen"/>ing people, behold I teſtify that it is utterly falſe, and theſe unclean wicked a<g ref="char:EOLhyphen"/>hominations is hated, abhorred, and utterly denyed by us. A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d moreover <hi>John Waterton,</hi> thou ſaidſt to <hi>Jeffery Winchurſt</hi> when he ſaid to thee, that it was better to ſuppreſſe the Ale-houſes which were ſo many, and the cauſe of much ſin in the land, then thou told him, it was long of him, and he anſwered thee, it was long of thee, and other Juſtices that did grant them Licences, next day thou told <hi>J. W.</hi> That thou would indite him to the Seſſions for denying to put my maid in the ſtocks, though <hi>J. W.</hi> were not then there in thy pre<g ref="char:EOLhyphen"/>ſence: and thou may remember that thou ſaid, if thou were a theife thou wouldſt rob the Quakers rather then any other, as thou paſt the fields with him to Stepny ſteeple-houſe and it's manifeſt what was in thy heart, was it not fulfil'd laſt firſt day of the week, when thou commanded two Men to take my goods out of my ſhop, and haſt not yet reſtor'd it again, which was about
+<pb n="7" facs="tcp:172093:4"/>a buſhill of flower, and its written, the theife ſhould reſtore fore-fold, or be ſold for his theft, and I would not have the theife hang'd, but that he might live to repent and reform his life. And work with his hands in the thing that is good, and this is according to Moſes ſpirit in the Scriptures of truth, and the Apoſtles doctrine, who ſaid let him that hath ſtolen ſteale no more, and I would not have any hanged for ſtealing on the firſt day or any other day, as the Mayor and ſome Aldermen of the Citty of London can teſtifie, for I am a friend to Moſes, Chriſt, the Prophets, and Apoſtles ſpirit. O man what will be thy end, for ſurely theſe things will lye heavy upon thy conſcience when the hand of the Lord viſits.</p>
+               <p>And the reaſon thou gives, in thy lying Mittimus of my Servants com<g ref="char:EOLhyphen"/>mitment was for aſiſting ſilly women to keep open my ſhop on the Lords day, but art not thou in the night, in the darkneſſe, and is not the light good, and is not that which is good called day: and is not the firſt day of the week a good day, and ſo is every day, whoſe is the Lords, that made them, and tell me which day I ſhall open my ſhop that is not the Lords day.</p>
+               <p>And whereas thou calls them ſilly women, whom thou ſaidſt my ſervant did aſſiſt, I tell thee again, thou haſt falſly accuſed the innocent, and they are not ſilly women, for they have learn'd of Chriſt the light, the Lord of the Sab<g ref="char:EOLhyphen"/>both, the ſubſtance that ends the ſignes to come out of the ſhaddows and like<g ref="char:EOLhyphen"/>neſſes, and thou may read in the Scriptures that they are ſilly women that are laden with ſins, led away with divers luſts, ever learning, &amp;c. <hi>2</hi> Tim. <hi>3.</hi> chap.</p>
+               <p>The thorny briery and unſavoury profeſſors of the Prophets good words may read themſelves, who are ſo proud, haughty, and ſcornfull in their coſtly aray, and changeable ſuites of apparrell, being at eaſe in the fleſh, whoſe minds are led captive after every luſt, and vanity, and ſo become defiled and hardened, walking haughtily with ſtretched forth neckes, the ſpirit of envy exerciſing their minds, with ſuch ſcornfull eyes, that they can hardly tell how to looke one another in the face without diſdaine, not knowing a bridle to their own tongues, nor like to Sarah's adorning within, which will bridle the whole courſe of the proud rebellious nature, and I ſay this is not liked nor beleev'd in by theſe which ſerve the Luſts, Pride, Vanity, Pleaſures which are of the world, and not of the Father of truth, and yet ſuch are called Chriſtians, members of Churches, and of the body of Chriſt (the light, the la<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>fore whoſe throne ſuch ſhall aſſuredly give an account, and <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> alſo tell thee, ſuch are ſilly women, and they are
+<pb n="8" facs="tcp:172093:5" rendition="simple:additions"/>not ſo, who learne of Chriſt whom thou haſt falſely accuſed and freequently vented forth bitter lying reproaches againſt them, which I ſay againe, Will lye heavy upon thy conſcience, when the Lords hand viſits, from which in any wiſe thou canſt not fly, nor hide.</p>
+               <p>Though thou ſay he refuſed to tell his name yet thou knew it and did expreſſe it in thy mittimus, and alſo to make him odious with thy enmity, thou haſt cauſ<g ref="char:EOLhyphen"/>ed to be written in thy lying mittimus theſe lying reproachfull words, ſaying he appeareth before me to be a dangerous ſuſpicious perſon of idle life, and this I teſtifie for the poor man my ſervant to thy face, which will ſtand upon thy head that this is evill, and wickedly falſe, and many people and neighbours about my dwelling houſe can bring in their record, and beare teſtimony with me againſt thee; and the Lords eternall witneſſe in thy conſcience will alſo beare a true teſtimony, and judge thee for theſe, and many other abominati<g ref="char:EOLhyphen"/>ons acted by thee, againſt me, my wife and family from time to time, and behold this I tell thee, the Lord knowes my heart, I deſire theſe things I have written, might not be laid to thy charge, at the time when if hap<g ref="char:EOLhyphen"/>pily thou may find a place of repentance unto life.</p>
+               <closer>
+                  <signed>D. B.</signed>
+                  <dateline>Poultrey Counter, the inner priſon, <date>the 1. 9th. month 2. day of the weeke. 1659.</date>
+                  </dateline>
+               </closer>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>M. W.</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
